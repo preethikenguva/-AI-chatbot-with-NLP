@@ -1,5 +1,19 @@
 # -AI-chatbot-with-NLP
 
+#COMPANY:CODETECH IT SOLUTIONS
+
+#NAME:SHARMILA PREETHI KENGUVA
+
+#INTERN ID:CT04DF86
+
+#DOMAIN:PYTHON PROGRAMMING
+
+#DURATION:4 WEEKS
+
+#MENTOR:NEEELA SANTOSH
+
+problem statement: 
+
 This project demonstrates a simple rule-based chatbot built using Python and Natural Language Processing (NLP) with NLTK. The chatbot can engage in basic conversations and respond to user queries with predefined answers.
 
 ## 📌Objective
@@ -44,4 +58,4 @@ This project presents a simple AI-based chatbot built using Python and Natural L
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/5f1f4011-ad09-47f5-a6ec-39cf75a99750)
+
