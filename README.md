@@ -43,3 +43,5 @@ See you later!
 This project presents a simple AI-based chatbot built using Python and Natural Language Processing (NLP) with the NLTK library. The chatbot is capable of understanding basic user inputs and responding with predefined answers using pattern matching. It demonstrates how rule-based NLP techniques can be used to create interactive and responsive conversational bots. The chatbot is easy to expand and can serve as a foundation for more advanced AI assistants by integrating machine learning, APIs, or multilingual support in future developments.
 
 #OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5f1f4011-ad09-47f5-a6ec-39cf75a99750)
