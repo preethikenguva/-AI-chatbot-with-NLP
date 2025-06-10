@@ -58,4 +58,4 @@ This project presents a simple AI-based chatbot built using Python and Natural L
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/a67fed2d-5794-4116-affc-e0e8ec5f0030)
+![Image](https://github.com/user-attachments/assets/267271de-6560-40ce-91c8-322e8a28e442)
