@@ -110,3 +110,4 @@ Goodbye!
 
 📌OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/543b1e81-88f7-4a88-aa99-fdbe2ab57efb)
